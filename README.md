@@ -16,7 +16,7 @@ Coupling is all about how classes interact with each other, on the other hand co
 High coupling and loose coupling should be followed everywhere as per best practices under OOPS principles.
 
 # Reason for Writing
-I couldnt find crystal clear understanding of cohesion over the internet.
+I couldnt find crystal clear understanding of cohesion and coupling over the internet.
 
 # Real use case High Cohesion
 We want to write functionality for user registration and we need to check if the user age is greater than 18
