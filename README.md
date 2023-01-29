@@ -14,7 +14,7 @@ High coupling and loose coupling should be followed everywhere as per best pract
 # Reason for Writing
 I couldnt find crystal clear understanding of cohesion and coupling over the internet.
 
-# Real use case High Cohesion
+# Real use case for High Cohesion
 We want to write functionality for user registration and we need to check if the user age is greater than 18
 to allow for registration. 
 
@@ -38,5 +38,5 @@ to allow for registration.
 In this example CanUserRegister() method is written inside User class and not in any other file/place. This is 
 an example of high cohesion as the related relationship is kept in same class
 
-# Real use case Loose Coupling Coupling
+# Real use case for Loose Coupling
 https://github.com/tarunprof4/NLayerArchitecture-LooselyCoupled/blob/main/README.md
