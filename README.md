@@ -1,9 +1,5 @@
-# CohesionAndCoupling
-Cohesion And Coupling With .Net
-
-
-
-
+# Cohesion And Coupling in C#
+Cohesion And Coupling in C#
 
 # Intended Audience
 1+ yrs of development experience
